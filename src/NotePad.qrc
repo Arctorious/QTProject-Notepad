@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>undoIcon.png</file>
+        <file>redoIcon.png</file>
+        <file>open-folder-outline-icon.png</file>
+        <file>saveIcon.png</file>
+        <file>newIcon.png</file>
+        <file>save-file-icon.png</file>
+        <file>1200px-Toicon-icon-sharp-corners-cut.svg.png</file>
+        <file>6583091.png</file>
+        <file>178921.png</file>
+        <file>appico.ico</file>
+    </qresource>
+</RCC>
